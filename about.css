@@ -1,0 +1,65 @@
+body {
+    background-color: #222;
+    color: #fff;
+}
+.navbar {
+    background-color: #333;
+}
+.navbar-nav .nav-link {
+    color: #fff;
+}
+.navbar-nav .nav-link.active:active{
+    background-color: #f00;
+    color: #fff;
+}
+.hover:hover{
+    background-color: #f00;
+    color: #fff;
+}
+.btn-warning {
+    background-color: #f5a623;
+    border: none;
+}
+.btn-primary {
+    background-color: #4a90e2;
+    border: none;
+}
+.about-title {
+    margin: 20px 0;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.about-subtitle {
+    font-size: 2rem;
+    color: #f00;
+}
+.btn-light {
+    background-color: #fff;
+    color: #000;
+    border: none;
+}
+.social-profile img {
+    border-radius: 50%;
+}
+.youtube-channels a {
+    text-decoration: none;
+}
+.youtube-channels .btn {
+    background-color: #444;
+    border: none;
+    margin: 5px;
+}
+.youtube-channels .btn:hover {
+    background-color: #f00;
+}
+.follow-btn {
+    background-color: #1da1f2;
+    border: none;
+}
+.profile-img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+.text-center .profile-img {
+    max-width: 50%;
+}

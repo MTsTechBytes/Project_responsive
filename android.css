@@ -1,0 +1,41 @@
+body {
+    background-color: #222;
+    color: #fff;
+}
+.navbar {
+    background-color: #333;
+}
+.navbar-nav .nav-link {
+    color: #fff;
+}
+.navbar-nav .nav-link.active:active {
+    background-color: #f00;
+    color: #fff;
+}
+.hover:hover{
+    background-color: #f00;
+    color: #fff;
+}
+
+.btn-warning {
+    background-color: #f5a623;
+    border: none;
+}
+.btn-primary {
+    background-color: #4a90e2;
+    border: none;
+}
+.main-title {
+    margin: 20px 0;
+    font-size: 2rem;
+    border-left: 5px solid #f00;
+    padding-left: 10px;
+}
+.card-title a {
+    color: #fff;
+    text-decoration: none;
+}
+.tags a {
+    color: #f00;
+    text-decoration: none;
+}
